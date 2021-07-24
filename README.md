@@ -1,4 +1,4 @@
-# ToDo App Web App (PWA)
+# ToDo
 
 ## Project setup
 
