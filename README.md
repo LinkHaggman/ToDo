@@ -1,4 +1,4 @@
-# ToDo App with Vue 3 Composition API
+# ToDo App Web App (PWA)
 
 ## Project setup
 
